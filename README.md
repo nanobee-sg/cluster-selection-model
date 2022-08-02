@@ -27,6 +27,6 @@ Influencer selection based on clustering model (number of influencers selected b
 
 *The above checklist helps to create a minimum viable product of the clustering model*
 
-## Complete by 27 August
+## Eventually
 
 - [ ] Connect the model to our influencer database
